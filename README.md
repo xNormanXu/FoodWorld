@@ -1,11 +1,11 @@
 # FoodWorld
+Food World is a food app written in swift.
 
 # ScreenShots
-
-![](FoodWorldAppScreenShots/LogInSignUp.png)
-![](FoodWorldAppScreenShots/LogIn.png)
-![](FoodWorldAppScreenShots/SignUp.png)
-![](FoodWorldAppScreenShots/Home.png)
-![](FoodWorldAppScreenShots/Recipe.png)
-![](FoodWorldAppScreenShots/Favorite.png)
-![](FoodWorldAppScreenShots/Profile.png)
+![](FoodWorldAppScreenshots/LogInSignUp.png)
+![](FoodWorldAppScreenshots/LogIn.png)
+![](FoodWorldAppScreenshots/SignUp.png)
+![](FoodWorldAppScreenshots/Home.png)
+![](FoodWorldAppScreenshots/Recipe.png)
+![](FoodWorldAppScreenshots/Favorite.png)
+![](FoodWorldAppScreenshots/Profile.png)
